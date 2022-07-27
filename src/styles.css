@@ -61,6 +61,6 @@ button:hover {
   padding-bottom: 4px;
 }
 
-.list-row > p {
+li {
   margin-right: 8px;
 }
